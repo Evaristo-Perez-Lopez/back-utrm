@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'BackendUTRM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_735066FFBB7E4BCE9829028E8D655109 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F9E9CBD0F5B4885836FD548CE70256F }}
           package: .
